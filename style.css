@@ -1,0 +1,16 @@
+body{
+ background : linear-gradient(135deg, violet, indigo, blue, green, yellow, orange, red);
+}
+#heading{
+ font-size: 20px;
+ width: 100%;
+ margin: 0px;
+ background-color : brown;
+}
+#status{
+font-size: 18px;
+}
+canvas{
+ box-shadow : 5px 5px 10px black;
+ border-radius : 10px;
+}
